@@ -10,4 +10,8 @@
 
 ## 1.1 从网络下载验证码
 
-根据文章1提供的便利，从http://cuijiahua.com/tutrial/discuz/index.php?label= 中下载验证码文件，不过下载到1732张后就报错了，Url Error: Connection refused。
+根据文章1提供的便利，从http://cuijiahua.com/tutrial/discuz/index.php?label= 中下载验证码文件，代码比较简单。
+
+# 2.本地生成验证码数据集
+
+待更新
