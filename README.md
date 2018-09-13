@@ -27,6 +27,35 @@
   - 6. 综合项目：验证码识别
   - 7. 项目源码
 
+## 软件说明
+
+- 开发软件：
+    - Linux ubuntu 14.04
+
+    - python 3.4
+
+    - matplotlib 2.2.2
+
+    - numpy 1.14.5
+
+    - pandas 0.23.4
+
+    - sklearn 0.0
+
+    - tensorflow 1.10.1
+
+    - pycharm community-2017.3.1
+
+    - pip 18.0
+
+- 工具软件
+
+    - 公式 word 2017
+
+    - 图片 PicPick 、PhotoShop等
+
+    - Mark Down文件（.md）Typora
+
 ## 项目说明
 
 1. 需要python基础
